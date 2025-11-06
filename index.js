@@ -4,6 +4,11 @@
 
 function main() {
     console.log('Welcome to the Clean Code Toolkit!');
+    farewell();
+}
+
+function farewell() {
+    console.log('Thank you for using the Clean Code Toolkit!');
 }
 
 main();
