@@ -18,7 +18,7 @@ Project leaders are responsible for clarifying the standards of acceptable behav
 This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [contact@project.org]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [mailto:contact@project.org]. All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.md.
